@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Filmler>
+  <Film>
+    <Title>Yüzüklerin Efendisi: Kralın Dönüşü</Title>
+    <Year>2003</Year>
+    <Runtime>201</Runtime>
+    <Genres>Aksiyon, Fantastik, Savaş </Genres>
+    <Director>Peter Jackson</Director>
+    <Stars>Orlando Bloom, Elijah Wood, Liv Tyler, Viggo Mortensen, Hugo Weaving</Stars>
+    <Summary>Aragorn, kendi ırkının çağrısına cevap vererek, Orta Dünya’nın bütün kaderi onun elindeyken doğumuyla birlikte ona verilen gücünü kullanabilecek midir? Karanlığın bütün güçleri son savaş için bir araya gelirken Gandalf, Gondor’un yaralı ordusunu toparlamak için hazırlıklara başlar. Gandalf’a gereken destek Rohan Kralı Theoden’den gelir.</Summary>
+    <Soundtrack>soundtracks/ReturnoftheKing.mp3</Soundtrack>
+    <Poster>posters/LoR-ReturnoftheKing.jpg</Poster>
+    <Rating>9</Rating>
+  </Film>
+
+  <Film>
+    <Title>Forrest Gump</Title>
+    <Year>1994</Year>
+    <Runtime>142</Runtime>
+    <Genres>Dram, Romantik</Genres>
+    <Director>Robert Zemeckis</Director>
+    <Stars>Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Mykelti Williamson</Stars>
+    <Summary>Forrest Gump, zeka seviyesi 75 olan bir erkeğin hayatını ele alıyor. Zeka seviyesi nedeni ile devlet okullarına girmekte bile zorlanan Forrest Gump  zamanla akla mantığa uymayan başarılara imza atıyor. Her ne kadar zeka seviyesi düşük olsa da fiziksel olarak son derece sağlam olan Forrest Gump, zamanla gelişen olaylar zincirinde bizi hayal edemeyeceğimiz bir dünyaya götürüyor.</Summary>
+    <Soundtrack>soundtracks/forrestGump.mp3</Soundtrack>
+    <Poster>posters/forrestGump.jpg</Poster>
+    <Rating>8</Rating>
+  </Film>
+  
+  <Film>
+    <Title>Esaretin Bedeli</Title>
+    <Year>1993</Year>
+    <Runtime>142</Runtime>
+    <Genres>Dram, Romantik</Genres>
+    <Director>Frank Darabont</Director>
+    <Stars>Morgan Freeman, Tim Robbins, Bob Gunton, William Sadler, Gil Bellows</Stars>
+    <Summary>Genç ve başarılı bir bankacı olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir.</Summary>
+    <Soundtrack>soundtracks/sR.mp3</Soundtrack>
+    <Poster>posters/sR.jpg</Poster>
+    <Rating>8</Rating>
+  </Film>
+
+  <Film>
+    <Title>Buz Devri</Title>
+    <Year>2002</Year>
+    <Runtime>81</Runtime>
+    <Genres>Animasyon, Komedi, Macera </Genres>
+    <Director>Carlos Saldanha, Chris Wedge </Director>
+    <Stars>-</Stars>
+    <Summary>20 bin yıl önce, Dünya hiç olmadığı kadar harika ve bir o kadar da tehlikelidir. Buz Çağı'nın başlangıcı kadar tehlikeli olduğu zamanlarsa çok azdır. Gezegenin dev yaratıkları ve daha küçük olanlardan bazıları soğuktan korunmak için güneye göç etmektedirler. Bunlara katılmayan iki kişi vardır. İşleri kendi bildiği gibi halletmeyi seven avare mamut Manfred ve hiç bi şey yapmadan yaşamaya bayılan tembel Sid.</Summary>
+    <Soundtrack>soundtracks/iceage.mp3</Soundtrack>
+    <Poster>posters/iceage.jpg</Poster>
+    <Rating>7</Rating>
+  </Film>
+
+  <!--<Film>
+    <Title></Title>
+    <Runtime></Runtime>
+    <Genres></Genres>
+    <Director></Director>
+    <Stars></Stars>
+    <Summary></Summary>
+    <Soundtrack></Soundtrack>
+    <Poster></Poster>
+    <Rating></Rating>
+  </Film>
+
+  <Film>
+    <Title></Title>
+    <Runtime></Runtime>
+    <Genres></Genres>
+    <Director></Director>
+    <Stars></Stars>
+    <Summary></Summary>
+    <Soundtrack></Soundtrack>
+    <Poster></Poster>
+    <Rating></Rating>
+  </Film>
+
+  <Film>
+    <Title></Title>
+    <Runtime></Runtime>
+    <Genres></Genres>
+    <Director></Director>
+    <Stars></Stars>
+    <Summary></Summary>
+    <Soundtrack></Soundtrack>
+    <Poster></Poster>
+    <Rating></Rating>
+  </Film>-->
+
+
+</Filmler>
